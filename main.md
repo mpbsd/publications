@@ -16,10 +16,10 @@ date: \today
 2020
 ----
 
-- [Classes of Weingarten surfaces in S\^2XR][2020_01]
+- [Classes of Weingarten surfaces in \(\mathbb{S}^{2}\times\mathbb{R}\)][2020_01]
 - [Quasi-Einstein manifolds with structure of warped product][2020_02]
-- [Graph-type biharmonic surfaces in R3][2020_03]
-- [Einstein Hypersurfaces of][2020_04]
+- [Graph-type biharmonic surfaces in \(\mathbb{R}^{3}\)][2020_03]
+- [Einstein Hypersurfaces of \(\mathbb{S}^{n}\times\mathbb{R}\) and \(\mathbb{H}^{n}\times\mathbb{R}\)][2020_04]
 - [Complete surfaces with zero curvatures in conformally flat spaces][2020_05]
 - [A family of MCF solutions for the Heisenberg group][2020_06]
 - [Reduction of gradient Ricci soliton equations][2020_07]
@@ -68,14 +68,14 @@ date: \today
 - [Universal inequalities for eigenvalues of a system of elliptic equations of the drifting Laplacian][2016_02]
 - [On Dupin Hypersurfaces in R 5 Parametrized by Lines of Curvature][2016_03]
 - [Helicoidal minimal surfaces in a conformally flat 3-space][2016_04]
-- [Harmonic surfaces of graphic type in R³][2016_05]
+- [Harmonic surfaces of graphic type in \(\mathbb{R}^{3}\)][2016_05]
 
 
 2015
 ----
 
 - [Prescribed diagonal Ricci tensor in locally conformally flat manifolds][2015_01]
-- [Universal bounds for eigenvalues of the polydrifting Laplacian operator in compact domains in the R\^n and S\^n][2015_02]
+- [Universal bounds for eigenvalues of the polydrifting Laplacian operator in compact domains in the \(\mathbb{R}^{n}\) and \(\mathbb{S}^{n}\)][2015_02]
 
 2014
 ----
@@ -89,7 +89,7 @@ date: \today
 - [Prescribed diagonal Schouten tensor in locally conformally flat manifolds][2013_01]
 - [A characterization of the catenoid and helicoid][2013_02]
 - [Surfaces with Constant Chebyshev Angle II][2013_03]
-- [On a class of Dupin hypersurfaces in R\^5 with nonconstant Lie curvature][2013_04]
+- [On a class of Dupin hypersurfaces in \(\mathbb{R}^{5}\) with nonconstant Lie curvature][2013_04]
 
 
 [2021_01]: https://link.springer.com/content/pdf/10.1007/s00025-021-01476-5.pdf
