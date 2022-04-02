@@ -1,6 +1,6 @@
 ---
 title: "Publicações"
-author: "Marcelo Bezerra"
+author: "GGD"
 date: \today
 ---
 
