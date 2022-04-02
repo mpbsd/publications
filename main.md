@@ -4,6 +4,11 @@ author: "GGD"
 date: \today
 ---
 
+2022
+----
+
+-
+
 2021
 ----
 
@@ -92,12 +97,39 @@ date: \today
 - [On a class of Dupin hypersurfaces in \(\mathbb{R}^{5}\) with nonconstant Lie curvature][2013_04]
 
 
-[2021_01]: https://link.springer.com/content/pdf/10.1007/s00025-021-01476-5.pdf
-[2021_02]: https://msp.org/pjm/2021/314-1/p04.xhtml
-[2021_03]: https://www.sciencedirect.com/science/article/abs/pii/S0926224521001121?via%3Dihub
-[2021_04]: https://link.springer.com/article/10.1007%2Fs10714-021-02867-3
-[2021_05]: https://link.springer.com/article/10.1007%2Fs10455-021-09786-1
-
+[2013_01]: https://doi.org/10.1007/s00022-013-0159-1
+[2013_02]: https://doi.org/10.1142/S0129167X13500456
+[2013_03]: https://doi.org/10.3836/tjm/1391177977
+[2013_04]: https://doi.org/10.1007/s10711-013-9857-y
+[2014_01]: https://doi.org/10.1007/s11856-014-0014-6
+[2014_02]: https://doi.org/10.1016/j.jmaa.2013.10.080
+[2015_01]: https://doi.org/10.1016/j.jmaa.2014.07.058
+[2015_02]: https://doi.org/10.1007/s10455-015-9450-8
+[2016_01]: https://doi.org/10.1515/advgeom-2015-0040
+[2016_02]: https://doi.org/10.1007/s00605-015-0875-8
+[2016_03]: https://doi.org/10.1007/s00025-016-0577-0
+[2016_04]: https://doi.org/10.4134/BKMS.2016.53.2.531
+[2016_05]: http://revistas.unitru.edu.pe/index.php/SSMM/article/view/1242
+[2017_01]: http://dx.doi.org/10.1007/s00605-017-1146-7
+[2017_02]: http://dx.doi.org/10.1007/s00025-016-0583-2
+[2017_03]: https://doi.org/10.1016/j.difgeo.2016.11.004
+[2017_04]: https://link.springer.com/article/10.1134/S0001434617030129
+[2017_05]: https://doi.org/10.1134/S0001434617030129
+[2017_06]: http://dx.doi.org/10.17268/sel.mat.2017.01.04
+[2017_07]: http://dx.doi.org/10.17268/sel.mat.2017.02.02
+[2018_01]: http://dx.doi.org/10.1016/j.geomphys.2017.07.020
+[2018_02]: http://dx.doi.org/10.1016/j.jmaa.2018.09.042
+[2018_03]: http://dx.doi.org/10.1007/s00229-018-1042-z
+[2018_04]: https://doi.org/10.1016/j.geomphys.2017.09.014
+[2018_05]: https://doi.org/10.1063/1.5016154
+[2018_06]: https://doi.org/10.1093/integr/xyy016
+[2018_07]: https://doi.org/10.1016/j.difgeo.2018.02.001
+[2018_08]: http://publi.math.unideb.hu/searchb.php
+[2019_01]: https://dialnet.unirioja.es/servlet/articulo?codigo=7167047
+[2019_02]: https://www.worldscientific.com/doi/10.1142/S0129167X19500757
+[2019_04]: https://www.sciencedirect.com/science/article/abs/pii/S0022247X18310837
+[2019_05]: https://doi.org/10.1016/j.jde.2018.08.026
+[2019_06]: https:/doi.org/10.1016/j.geomphys.2019.05.003
 [2020_01]: https://www.math.uh.edu/~hjm/Vol46-3.html
 [2020_02]: https://www.sciencedirect.com/science/article/abs/pii/S092622452030067X?via%3Dihub
 [2020_03]: https://revistas.unitru.edu.pe/index.php/SSMM/article/view/2959
@@ -110,43 +142,8 @@ date: \today
 [2020_10]: https://www.revistas.ufg.br/nexus/article/view/60657
 [2020_11]: https://link.springer.com/article/10.1007%2Fs00229-019-01159-0
 [2020_12]: https://link.springer.com/article/10.1007/s10231-019-00904-2
-
-[2019_01]: https://dialnet.unirioja.es/servlet/articulo?codigo=7167047
-[2019_02]: https://www.worldscientific.com/doi/10.1142/S0129167X19500757
-[2019_04]: https://www.sciencedirect.com/science/article/abs/pii/S0022247X18310837
-[2019_05]: https://doi.org/10.1016/j.jde.2018.08.026
-[2019_06]: https:/doi.org/10.1016/j.geomphys.2019.05.003
-
-[2018_01]: http://dx.doi.org/10.1016/j.geomphys.2017.07.020
-[2018_02]: http://dx.doi.org/10.1016/j.jmaa.2018.09.042
-[2018_03]: http://dx.doi.org/10.1007/s00229-018-1042-z
-[2018_04]: https://doi.org/10.1016/j.geomphys.2017.09.014
-[2018_05]: https://doi.org/10.1063/1.5016154
-[2018_06]: https://doi.org/10.1093/integr/xyy016
-[2018_07]: https://doi.org/10.1016/j.difgeo.2018.02.001
-[2018_08]: http://publi.math.unideb.hu/searchb.php
-
-[2017_01]: http://dx.doi.org/10.1007/s00605-017-1146-7
-[2017_02]: http://dx.doi.org/10.1007/s00025-016-0583-2
-[2017_03]: https://doi.org/10.1016/j.difgeo.2016.11.004
-[2017_04]: https://link.springer.com/article/10.1134/S0001434617030129
-[2017_05]: https://doi.org/10.1134/S0001434617030129
-[2017_06]: http://dx.doi.org/10.17268/sel.mat.2017.01.04
-[2017_07]: http://dx.doi.org/10.17268/sel.mat.2017.02.02
-
-[2016_01]: https://doi.org/10.1515/advgeom-2015-0040
-[2016_02]: https://doi.org/10.1007/s00605-015-0875-8
-[2016_03]: https://doi.org/10.1007/s00025-016-0577-0
-[2016_04]: https://doi.org/10.4134/BKMS.2016.53.2.531
-[2016_05]: http://revistas.unitru.edu.pe/index.php/SSMM/article/view/1242
-
-[2015_01]: https://doi.org/10.1016/j.jmaa.2014.07.058
-[2015_02]: https://doi.org/10.1007/s10455-015-9450-8
-
-[2014_01]: https://doi.org/10.1007/s11856-014-0014-6
-[2014_02]: https://doi.org/10.1016/j.jmaa.2013.10.080
-
-[2013_01]: https://doi.org/10.1007/s00022-013-0159-1
-[2013_02]: https://doi.org/10.1142/S0129167X13500456
-[2013_03]: https://doi.org/10.3836/tjm/1391177977
-[2013_04]: https://doi.org/10.1007/s10711-013-9857-y
+[2021_01]: https://link.springer.com/content/pdf/10.1007/s00025-021-01476-5.pdf
+[2021_02]: https://msp.org/pjm/2021/314-1/p04.xhtml
+[2021_03]: https://www.sciencedirect.com/science/article/abs/pii/S0926224521001121?via%3Dihub
+[2021_04]: https://link.springer.com/article/10.1007%2Fs10714-021-02867-3
+[2021_05]: https://link.springer.com/article/10.1007%2Fs10455-021-09786-1
