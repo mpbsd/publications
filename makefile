@@ -6,8 +6,8 @@ else
 	DOC_VIEWER = firefox
 endif
 
-html:
-	pandoc main.md \
+publicacoes:
+	pandoc publicacoes.md \
 		--from=markdown+tex_math_single_backslash+raw_tex \
 		--to=html \
 		--output=html/publications.html \
@@ -15,4 +15,13 @@ html:
 		--pdf-engine=xelatex
 	$(DOC_VIEWER) html/publications.html
 
-.PHONY: html
+.PHONY: publicacoes seminarios
+
+seminarios:
+	pandoc seminarios.md \
+		--from=markdown+tex_math_single_backslash+raw_tex \
+		--to=html \
+		--output=html/publications.html \
+		--citeproc \
+		--pdf-engine=xelatex
+	$(DOC_VIEWER) html/publications.html
